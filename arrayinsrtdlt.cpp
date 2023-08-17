@@ -32,7 +32,7 @@ int main()
     int arr[10];
     int size = 10;
     int n;
-    cout << "Length of Array according to you : ";
+    cout << "Length of Array according to you hue hue : ";
     cin >> n;
 
     cout << "Enter array : ";
